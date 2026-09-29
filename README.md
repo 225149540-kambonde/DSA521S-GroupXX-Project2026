@@ -44,21 +44,19 @@ The NUST Campus Service Centre Simulation models common student-service activiti
 |-------|---------|
 | **Group Number** | Group XX |
 | **Module** | DSA521S — Data Structures and Algorithms 1 |
-| **Lecturer** | [Mr. Steven] |
+| **Lecturer** | Mr. Steven |
 | **Submission Date** | 29 September 2026 |
 
 ### Group Members
 
 | No. | Full Name | Student Number | GitHub Username |
 |-----|-----------|----------------|-----------------|
-| 1   | Kambonde |   225149540       225149540-kambonde      |                 |
-| 2   | Shilongo       225020238      2250202-shilongo                              |
-| 3   |  Japhet     22500187        226081745-Nashipili      |                 |
-| 4   | Elifas      225163993        225163993 Taati@82|                 |
-| 5   |           |                |                 |
-| 6   |           |                |                 |
+| 1   |Jeremia       225149540    | 225149540-kambonde                       
+| 2   | Shilongo     225020238      |2250202-shilongo              
+| 3   | Elifas       225163993   | 225163993 Taati@82                   
+| 4   | Jafet        22500187  |   226081745-Nashipili            
 
-**Submitted by:** 225149540 – Kambonde Jeremia
+**Submitted by:** 225149540 Kambonde Jeremia
 
 ---
 
