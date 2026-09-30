@@ -52,7 +52,7 @@ The NUST Campus Service Centre Simulation models common student-service activiti
 | No. | Full Name | Student Number | GitHub Username |
 |-----|-----------|----------------|-----------------|
 | 1   |Jeremia     |  225149540    | 225149540-kambonde |                      
-| 2   | Shilongo   |  225020238      |2250202-shilongo  |            
+| 2   | Shilongo   |  225020238      |225020238-shilongo  |            
 | 3   | Elifas     |  225163993   | 225163993 Taati@82  |                 
 | 4   | Jafet      |  22500187  |   226081745-Nashipili  |         
 
